@@ -1,4 +1,4 @@
-<h1 align="center">IG-HACK v1.0</h1>
+<h1 align="center">INSTAG-HACK v1.0</h1>
 <p align="center">
       A new automated script for Instagram Account hackig from bruteforce
 </p>
@@ -7,9 +7,9 @@
 
 instaGhack is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/Technical Dipesh/instaGhack.svg)](https://github.com/Technical Dipesh/instaGhack)
-[![Build Status](https://img.shields.io/github/forks/Technical Dipesh/instaGhack.svg)](https://github.com/Technical Dipesh/instaGhack)
-[![License: MIT](https://img.shields.io/github/license/Technical Dipesh/instaGhack.svg)](https://github.com/Technical Dipesh/instaGhack)
+[![Build Status](https://img.shields.io/github/stars/lunnar211/instaGhack.svg)](https://github.com/TechnicalDipesh/instaGhack)
+[![Build Status](https://img.shields.io/github/forks/lunnar211/instaGhack.svg)](https://github.com/TechnicalDipesh/instaGhack)
+[![License: MIT](https://img.shields.io/github/license/lunnar211/instaGhack.svg)](https://github.com/lunnar211/instaGhack)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#instaGhack)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -77,7 +77,7 @@ $ bash instaGhack.sh
 https://www.youtube.com/channel/UCFG0nw1sR6rbQozJYM8gjIQ
 
 ### Chekout our webite:
-https://www.technicaldipesh.000webhostapp.com
+https://technicaldipesh.000webhostapp.com/
 
 ## 👥 ***Join***
 
